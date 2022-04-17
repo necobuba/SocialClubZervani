@@ -1,0 +1,6 @@
+@font-face{
+    font-family:"helvetica-86-heavy-italic";
+    src:url("https://candyfonts.com/wp-data/2019/04/06/51178/HelveticaNeue-HeavyItalic.otf") format("woff"),
+    url("https://candyfonts.com/wp-data/2019/04/06/51178/HelveticaNeue-HeavyItalic.otf") format("opentype"),
+    url("https://candyfonts.com/wp-data/2019/04/06/51178/HelveticaNeue-HeavyItalic.otf") format("truetype");
+}
